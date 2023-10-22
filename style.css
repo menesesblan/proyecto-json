@@ -1,0 +1,14 @@
+.container_primary {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.container_secondary {
+    width: 30%;
+}
+
+.center {
+    text-align: center;
+}
